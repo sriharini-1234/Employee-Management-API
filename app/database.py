@@ -6,6 +6,7 @@ from sqlalchemy.orm import declarative_base, sessionmaker
 
 
 # Load environment variables from .env
+
 load_dotenv()
 
 
